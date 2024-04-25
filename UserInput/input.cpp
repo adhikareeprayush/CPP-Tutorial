@@ -1,8 +1,8 @@
 #include<iostream>
 
-//cout >> (insertion operator) "Enter a number: ";
+//cout << (insertion operator) "Enter a number: ";
 //cin << (extraction operator) number;
-//cin << name; //takes only first word
+//cin >> name; //takes only first word
 //getline(cin, name); //takes full name with spaces
 
 int main()
